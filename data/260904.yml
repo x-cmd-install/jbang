@@ -7,7 +7,7 @@ about:
   head: ea1c3dd
   archived: false
   latestVersion: early-access
-  collectedAt: 2026-09-04T19:19:14Z
+  collectedAt: 2026-09-04T21:15:08Z
 timeline:
   created: 2019-12-24
   lastCommit: 2026-08-27
@@ -90,6 +90,114 @@ total:
   openIssue: 352
   commit: 2359
 ---
+path: /home/runner/.x-repo/github.com/jbangdev/jbang
+collectedAt: 2026-09-04T21:15:10Z
+loc:
+  Java:
+    code: 37374
+    comments: 3486
+    blanks: 6975
+    files: 321
+  AsciiDoc:
+    code: 8154
+    comments: 293
+    blanks: 3629
+    files: 104
+  Json:
+    code: 3595
+    comments: 0
+    blanks: 0
+    files: 80
+  Xml:
+    code: 685
+    comments: 17
+    blanks: 17
+    files: 9
+  Sh:
+    code: 644
+    comments: 347
+    blanks: 162
+    files: 12
+  Bash:
+    code: 561
+    comments: 188
+    blanks: 169
+    files: 4
+  Batch:
+    code: 461
+    comments: 0
+    blanks: 86
+    files: 7
+  Yaml:
+    code: 322
+    comments: 15
+    blanks: 24
+    files: 6
+  PowerShell:
+    code: 217
+    comments: 39
+    blanks: 25
+    files: 4
+  Pan:
+    code: 195
+    comments: 21
+    blanks: 87
+    files: 9
+  Css:
+    code: 84
+    comments: 0
+    blanks: 11
+    files: 1
+  RPMSpecfile:
+    code: 41
+    comments: 1
+    blanks: 13
+    files: 1
+  Html:
+    code: 29
+    comments: 0
+    blanks: 1
+    files: 2
+  Kotlin:
+    code: 25
+    comments: 12
+    blanks: 12
+    files: 4
+  Groovy:
+    code: 11
+    comments: 4
+    blanks: 6
+    files: 2
+  Svg:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 3
+  Toml:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 1
+  Bitbake:
+    code: 1
+    comments: 2
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 357
+    blanks: 93
+    files: 9
+  Text:
+    code: 0
+    comments: 1754
+    blanks: 364
+    files: 11
+total:
+  code: 52439
+  comments: 6537
+  blanks: 11676
+  files: 591
 ---
 date: "2026-08-24"
 repo:
