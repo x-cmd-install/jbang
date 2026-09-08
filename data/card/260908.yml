@@ -5,7 +5,7 @@ about:
   head: ea1c3dd
   archived: false
   latestVersion: "early-access"
-  collectedAt: 2026-09-08T03:28:10Z
+  collectedAt: 2026-09-08T06:14:08Z
 timeline:
   created: 2019-12-24
   lastCommit: 2026-08-27
@@ -89,7 +89,7 @@ total:
   commit: 2359
 ---
 path: /home/runner/.x-repo/github.com/jbangdev/jbang
-collectedAt: 2026-09-08T03:28:13Z
+collectedAt: 2026-09-08T06:14:10Z
 loc:
   Java:
     code: 37374

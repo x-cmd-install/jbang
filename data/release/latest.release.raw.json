@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 13455725,
       "digest": "sha256:be34e7416227dac8b98c79e07d80488d73b3e131272a616e0754a7d496133fc0",
-      "download_count": 18195,
+      "download_count": 18236,
       "created_at": "2026-07-13T22:31:47Z",
       "updated_at": "2026-07-13T22:31:48Z",
       "browser_download_url": "https://github.com/jbangdev/jbang/releases/download/v0.141.0/jbang-0.141.0.zip"
@@ -1543,7 +1543,7 @@
       "state": "uploaded",
       "size": 37434118,
       "digest": "sha256:f3a61764c4b23dd1477d7e80e1727d8e152fc7726363d5d656e7ada7a7acb519",
-      "download_count": 57,
+      "download_count": 59,
       "created_at": "2026-07-13T22:32:05Z",
       "updated_at": "2026-07-13T22:32:07Z",
       "browser_download_url": "https://github.com/jbangdev/jbang/releases/download/v0.141.0/jbang-windows-x64.zip"
@@ -1651,7 +1651,7 @@
       "state": "uploaded",
       "size": 14940160,
       "digest": "sha256:0305dab682909378fa71eb590eb199dffba8d2ea8f6293c4bd7dcc671daabaca",
-      "download_count": 244637,
+      "download_count": 245295,
       "created_at": "2026-07-13T22:32:08Z",
       "updated_at": "2026-07-13T22:32:09Z",
       "browser_download_url": "https://github.com/jbangdev/jbang/releases/download/v0.141.0/jbang.tar"
@@ -1759,7 +1759,7 @@
       "state": "uploaded",
       "size": 13455613,
       "digest": "sha256:9f7dcc78b19e4d8ab0cf6950b1e1e78f4a063891613a5541e8d587fe5a6206eb",
-      "download_count": 20057,
+      "download_count": 20101,
       "created_at": "2026-07-13T22:32:09Z",
       "updated_at": "2026-07-13T22:32:10Z",
       "browser_download_url": "https://github.com/jbangdev/jbang/releases/download/v0.141.0/jbang.zip"
@@ -1867,7 +1867,7 @@
       "state": "uploaded",
       "size": 7,
       "digest": "sha256:2796d189016b77d4285b777a392faefe1ec0e0ba65fdfbabd3d76677e247e3ca",
-      "download_count": 189657,
+      "download_count": 190176,
       "created_at": "2026-07-13T22:32:11Z",
       "updated_at": "2026-07-13T22:32:11Z",
       "browser_download_url": "https://github.com/jbangdev/jbang/releases/download/v0.141.0/version.txt"
