@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 97584128,
       "digest": "sha256:9e6e1101b70ab6cd1defff5af0bfb28b16a0fed75a212661c6e95e6cab5fb2bb",
-      "download_count": 190,
+      "download_count": 194,
       "created_at": "2026-07-13T22:31:26Z",
       "updated_at": "2026-07-13T22:31:29Z",
       "browser_download_url": "https://github.com/jbangdev/jbang/releases/download/v0.141.0/jbang-0.141.0-linux-x64.tar"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 41758449,
       "digest": "sha256:2d0227a8867918c6e8aac0aefe04090781f8ed730904bf091b89eac4f5473ef4",
-      "download_count": 351,
+      "download_count": 360,
       "created_at": "2026-07-13T22:31:30Z",
       "updated_at": "2026-07-13T22:31:31Z",
       "browser_download_url": "https://github.com/jbangdev/jbang/releases/download/v0.141.0/jbang-0.141.0-linux-x64.zip"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 37434246,
       "digest": "sha256:d592b1cda20126fa0b8b859b53a887a46ffb0e172e5b571633ce2c27728fccc6",
-      "download_count": 196,
+      "download_count": 201,
       "created_at": "2026-07-13T22:31:43Z",
       "updated_at": "2026-07-13T22:31:44Z",
       "browser_download_url": "https://github.com/jbangdev/jbang/releases/download/v0.141.0/jbang-0.141.0-windows-x64.zip"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 14940160,
       "digest": "sha256:0de5bb29a23159a6afc6f40dd510fbad05685827288ba7727c49d500719d0f92",
-      "download_count": 687,
+      "download_count": 688,
       "created_at": "2026-07-13T22:31:45Z",
       "updated_at": "2026-07-13T22:31:46Z",
       "browser_download_url": "https://github.com/jbangdev/jbang/releases/download/v0.141.0/jbang-0.141.0.tar"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 13455725,
       "digest": "sha256:be34e7416227dac8b98c79e07d80488d73b3e131272a616e0754a7d496133fc0",
-      "download_count": 18966,
+      "download_count": 19469,
       "created_at": "2026-07-13T22:31:47Z",
       "updated_at": "2026-07-13T22:31:48Z",
       "browser_download_url": "https://github.com/jbangdev/jbang/releases/download/v0.141.0/jbang-0.141.0.zip"
@@ -1651,7 +1651,7 @@
       "state": "uploaded",
       "size": 14940160,
       "digest": "sha256:0305dab682909378fa71eb590eb199dffba8d2ea8f6293c4bd7dcc671daabaca",
-      "download_count": 250771,
+      "download_count": 254377,
       "created_at": "2026-07-13T22:32:08Z",
       "updated_at": "2026-07-13T22:32:09Z",
       "browser_download_url": "https://github.com/jbangdev/jbang/releases/download/v0.141.0/jbang.tar"
@@ -1759,7 +1759,7 @@
       "state": "uploaded",
       "size": 13455613,
       "digest": "sha256:9f7dcc78b19e4d8ab0cf6950b1e1e78f4a063891613a5541e8d587fe5a6206eb",
-      "download_count": 20384,
+      "download_count": 20582,
       "created_at": "2026-07-13T22:32:09Z",
       "updated_at": "2026-07-13T22:32:10Z",
       "browser_download_url": "https://github.com/jbangdev/jbang/releases/download/v0.141.0/jbang.zip"
@@ -1867,7 +1867,7 @@
       "state": "uploaded",
       "size": 7,
       "digest": "sha256:2796d189016b77d4285b777a392faefe1ec0e0ba65fdfbabd3d76677e247e3ca",
-      "download_count": 195154,
+      "download_count": 198330,
       "created_at": "2026-07-13T22:32:11Z",
       "updated_at": "2026-07-13T22:32:11Z",
       "browser_download_url": "https://github.com/jbangdev/jbang/releases/download/v0.141.0/version.txt"
