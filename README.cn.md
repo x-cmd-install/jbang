@@ -1,62 +1,62 @@
 # jbang
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 Unleash the power of Java - JBang Lets Students, Educators and Professional Developers create, edit and run self-contained source-only Java programs with unprecedented ease.
 
-![jbang](https://repo.x-cmd.io/jbang.svg)
+![jbang](https://repo.x-cmd.io/jbang.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install jbang
 ```
 
-## Code insight
+## 代码规模
 
-Total: **52,404** lines of code across **526** files in the top 5 languages.
+合计: **52,404** 行代码（覆盖前 5 种语言、共 **526** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Java | 37,374 | 3,486 | 6,975 | 321 |
 | AsciiDoc | 8,154 | 293 | 3,629 | 104 |
 | Json | 3,595 | 0 | 0 | 80 |
 | Xml | 685 | 17 | 17 | 9 |
 | Sh | 644 | 347 | 162 | 12 |
 
-## OpenSSF Scorecard
+## OpenSSF Scorecard 评分
 
-Overall score: **6.3 / 10**
+总评分: **6.3 / 10**
 
-Lowest-scoring checks:
+评分最低的几项:
 
 - **Pinned-Dependencies** (-1/10) — internal error: internal error: invalid Dockerfile: LABEL must have two arguments
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/jbangdev/jbang>
-- **Homepage**: <https://jbang.dev>
-- **License**: MIT
+- **上游仓库**: <https://github.com/jbangdev/jbang>
+- **官网**: <https://jbang.dev>
+- **许可证**: MIT
 
-## Release
+## 发布
 
-- **Latest**: `early-access` (2026-07-14)
-- **Last commit**: 2026-08-27
-- **Assets in release**: 53
+- **最新版本**: `early-access` (2026-07-14)
+- **最近提交**: 2026-08-27
+- **Release 含资产**: 53 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 1,860 · **Forks**: 206 · **Open issues**: 1,025 · **Contributors**: 104
+- **Star**: 1,860 · **Fork**: 206 · **开放 issue**: 1,025 · **贡献者**: 104
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 247 · **Merged PRs**: 1017 · **Open PRs**: 56 · **Closed issues**: 673 · **Open issues**: 352 · **Commits**: 2359
+- **发布数**: 247 · **已合并 PR**: 1017 · **开放 PR**: 56 · **已关闭 issue**: 673 · **开放 issue**: 352 · **提交数**: 2359
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 1 | 4 | 12 | 0 | 4 | 6 |
 | last60d | 2026-07-12 | 2 | 10 | 24 | 2 | 10 | 16 |
@@ -65,10 +65,10 @@ Lowest-scoring checks:
 | 360d | 2025-09-15 | 15 | 162 | 48 | 53 | 72 | 246 |
 | last720d | 2024-09-20 | 37 | 321 | 51 | 137 | 133 | 602 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [checksums_sha256.txt](https://github.com/jbangdev/jbang/releases/download/v0.141.0/checksums_sha256.txt) | 1.6 KiB | `other` |
 | [checksums_sha256.txt.asc](https://github.com/jbangdev/jbang/releases/download/v0.141.0/checksums_sha256.txt.asc) | 216 B | `other` |
 | [jbang-0.141.0-linux-x64.tar](https://github.com/jbangdev/jbang/releases/download/v0.141.0/jbang-0.141.0-linux-x64.tar) | 93.1 MiB | `other` |
@@ -123,22 +123,22 @@ Lowest-scoring checks:
 | [version.txt.asc](https://github.com/jbangdev/jbang/releases/download/v0.141.0/version.txt.asc) | 216 B | `other` |
 | [version.txt.sha256](https://github.com/jbangdev/jbang/releases/download/v0.141.0/version.txt.sha256) | 64 B | `other` |
 
-## Distribution status
+## 发行版状态
 
-Reported by **10** distros on [repology.org](https://repology.org/project/jbang). **5** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+在 [repology.org](https://repology.org/project/jbang) 上共有 **10** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**5** 个 ⚠️ 使用旧版本。
 
-| Distro | Version | Status |
-|--------|---------|--------|
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
 | Homebrew | `0.141.0` | ✅ latest |
 | Nix unstable | `0.141.0` | ✅ latest |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for jbang lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `jbang` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+jbang 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `jbang` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/jbang.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/jbang.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:12:42Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:12:42Z._
