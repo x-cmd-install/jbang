@@ -7,7 +7,7 @@ about:
   latestVersion: "early-access"
   latestRelease: "v0.141.0"
   latestPrerelease: "early-access"
-  collectedAt: 2026-09-11T06:16:07Z
+  collectedAt: 2026-09-11T18:31:35Z
 timeline:
   created: 2019-12-24
   lastCommit: 2026-08-27
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-14
   lastPrerelease: 2026-08-27
 popularity:
-  star: 1860
+  star: 1861
   watcher: 24
   fork: 206
   release: 247
@@ -93,7 +93,7 @@ total:
   commit: 2359
 ---
 path: /home/runner/.x-repo/github.com/jbangdev/jbang
-collectedAt: 2026-09-11T06:16:10Z
+collectedAt: 2026-09-11T18:31:42Z
 loc:
   Java:
     code: 37374
