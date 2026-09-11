@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,860 · **Forks**: 206 · **Open issues**: 1,025 · **Contributors**: 104
+- **Stars**: 1,861 · **Forks**: 206 · **Open issues**: 1,025 · **Contributors**: 104
 
 ## Totals (cumulative)
 
@@ -141,4 +141,4 @@ Install metadata for jbang lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T06:16:20Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T18:31:54Z._
