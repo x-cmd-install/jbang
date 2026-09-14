@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,862 · **Forks**: 207 · **Open issues**: 1,025 · **Contributors**: 104
+- **Stars**: 1,863 · **Forks**: 207 · **Open issues**: 1,025 · **Contributors**: 104
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 3 | 12 | 0 | 4 | 6 |
-| last60d | 2026-07-15 | 1 | 8 | 23 | 1 | 7 | 12 |
-| 90d | 2026-06-15 | 5 | 40 | 30 | 20 | 17 | 59 |
-| last180d | 2026-03-17 | 6 | 89 | 44 | 27 | 34 | 130 |
-| 360d | 2025-09-18 | 14 | 160 | 48 | 51 | 71 | 244 |
-| last720d | 2024-09-23 | 37 | 321 | 51 | 136 | 133 | 602 |
+| 30d | 2026-08-15 | 1 | 3 | 12 | 0 | 4 | 6 |
+| last60d | 2026-07-16 | 1 | 8 | 22 | 1 | 7 | 12 |
+| 90d | 2026-06-16 | 5 | 40 | 30 | 20 | 17 | 59 |
+| last180d | 2026-03-18 | 6 | 89 | 44 | 26 | 34 | 130 |
+| 360d | 2025-09-19 | 14 | 160 | 48 | 51 | 71 | 244 |
+| last720d | 2024-09-24 | 37 | 321 | 51 | 136 | 133 | 602 |
 
 ## Release assets
 
@@ -123,15 +123,6 @@ Lowest-scoring checks:
 | [version.txt.asc](https://github.com/jbangdev/jbang/releases/download/v0.141.0/version.txt.asc) | 216 B | `other` |
 | [version.txt.sha256](https://github.com/jbangdev/jbang/releases/download/v0.141.0/version.txt.sha256) | 64 B | `other` |
 
-## Distribution status
-
-Reported by **10** distros on [repology.org](https://repology.org/project/jbang). **5** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.141.0` | ✅ latest |
-| Nix unstable | `0.141.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for jbang lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `jbang` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -141,4 +132,4 @@ Install metadata for jbang lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:31:19Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:42:30Z._

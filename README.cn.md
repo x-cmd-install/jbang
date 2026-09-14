@@ -48,7 +48,7 @@ x install jbang
 
 ## 流行度
 
-- **Star**: 1,862 · **Fork**: 207 · **开放 issue**: 1,025 · **贡献者**: 104
+- **Star**: 1,863 · **Fork**: 207 · **开放 issue**: 1,025 · **贡献者**: 104
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install jbang
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 3 | 12 | 0 | 4 | 6 |
-| last60d | 2026-07-15 | 1 | 8 | 23 | 1 | 7 | 12 |
-| 90d | 2026-06-15 | 5 | 40 | 30 | 20 | 17 | 59 |
-| last180d | 2026-03-17 | 6 | 89 | 44 | 27 | 34 | 130 |
-| 360d | 2025-09-18 | 14 | 160 | 48 | 51 | 71 | 244 |
-| last720d | 2024-09-23 | 37 | 321 | 51 | 136 | 133 | 602 |
+| 30d | 2026-08-15 | 1 | 3 | 12 | 0 | 4 | 6 |
+| last60d | 2026-07-16 | 1 | 8 | 22 | 1 | 7 | 12 |
+| 90d | 2026-06-16 | 5 | 40 | 30 | 20 | 17 | 59 |
+| last180d | 2026-03-18 | 6 | 89 | 44 | 26 | 34 | 130 |
+| 360d | 2025-09-19 | 14 | 160 | 48 | 51 | 71 | 244 |
+| last720d | 2024-09-24 | 37 | 321 | 51 | 136 | 133 | 602 |
 
 ## Release 资产
 
@@ -123,15 +123,6 @@ x install jbang
 | [version.txt.asc](https://github.com/jbangdev/jbang/releases/download/v0.141.0/version.txt.asc) | 216 B | `other` |
 | [version.txt.sha256](https://github.com/jbangdev/jbang/releases/download/v0.141.0/version.txt.sha256) | 64 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/jbang) 上共有 **10** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**5** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `0.141.0` | ✅ latest |
-| Nix unstable | `0.141.0` | ✅ latest |
-
 ## 改进这些数据
 
 jbang 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `jbang` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -141,4 +132,4 @@ jbang 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T06:31:21Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T06:42:31Z._
