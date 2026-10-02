@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,868 · **Forks**: 210 · **Open issues**: 1,027 · **Contributors**: 104
+- **Stars**: 1,869 · **Forks**: 210 · **Open issues**: 1,027 · **Contributors**: 104
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 2 | 2 | 8 | 0 | 2 | 3 |
-| last60d | 2026-08-02 | 2 | 7 | 18 | 1 | 6 | 11 |
-| 90d | 2026-07-03 | 4 | 25 | 32 | 7 | 14 | 44 |
-| last180d | 2026-04-04 | 7 | 87 | 46 | 25 | 32 | 122 |
-| 360d | 2025-10-06 | 13 | 153 | 52 | 49 | 67 | 240 |
-| last720d | 2024-10-11 | 37 | 320 | 55 | 136 | 132 | 605 |
+| 30d | 2026-09-02 | 2 | 2 | 7 | 0 | 2 | 3 |
+| last60d | 2026-08-03 | 2 | 7 | 18 | 1 | 6 | 11 |
+| 90d | 2026-07-04 | 4 | 23 | 32 | 6 | 14 | 44 |
+| last180d | 2026-04-05 | 7 | 87 | 46 | 25 | 32 | 122 |
+| 360d | 2025-10-07 | 13 | 153 | 52 | 49 | 67 | 240 |
+| last720d | 2024-10-12 | 37 | 320 | 55 | 136 | 132 | 605 |
 
 ## Release assets
 
@@ -132,4 +132,4 @@ Install metadata for jbang lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T07:17:09Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T06:58:19Z._
