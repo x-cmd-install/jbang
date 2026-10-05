@@ -14,13 +14,13 @@ x install jbang
 
 ## Code insight
 
-Total: **52,582** lines of code across **529** files in the top 5 languages.
+Total: **52,592** lines of code across **529** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 37,550 | 3,540 | 7,006 | 324 |
+| Java | 37,552 | 3,540 | 7,006 | 324 |
 | AsciiDoc | 8,154 | 294 | 3,629 | 104 |
-| Json | 3,597 | 0 | 0 | 80 |
+| Json | 3,605 | 0 | 0 | 80 |
 | Xml | 685 | 17 | 17 | 9 |
 | Sh | 644 | 347 | 162 | 12 |
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `early-access` (2026-09-22)
-- **Last commit**: 2026-10-03
+- **Last commit**: 2026-10-04
 - **Assets in release**: 53
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 248 · **Merged PRs**: 1022 · **Open PRs**: 60 · **Closed issues**: 674 · **Open issues**: 353 · **Commits**: 2365
+- **Releases**: 248 · **Merged PRs**: 1023 · **Open PRs**: 60 · **Closed issues**: 674 · **Open issues**: 353 · **Commits**: 2366
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 2 | 4 | 6 | 0 | 2 | 5 |
-| last60d | 2026-08-05 | 2 | 9 | 17 | 1 | 6 | 12 |
-| 90d | 2026-07-06 | 4 | 23 | 32 | 4 | 14 | 26 |
-| last180d | 2026-04-07 | 7 | 89 | 46 | 25 | 32 | 122 |
-| 360d | 2025-10-09 | 13 | 155 | 52 | 48 | 66 | 238 |
-| last720d | 2024-10-14 | 37 | 322 | 55 | 136 | 132 | 607 |
+| 30d | 2026-09-05 | 2 | 4 | 7 | 0 | 2 | 6 |
+| last60d | 2026-08-06 | 2 | 10 | 17 | 0 | 6 | 13 |
+| 90d | 2026-07-07 | 4 | 24 | 32 | 4 | 14 | 27 |
+| last180d | 2026-04-08 | 7 | 90 | 46 | 25 | 32 | 123 |
+| 360d | 2025-10-10 | 13 | 153 | 51 | 48 | 66 | 239 |
+| last720d | 2024-10-15 | 37 | 323 | 55 | 136 | 132 | 608 |
 
 ## Release assets
 
@@ -132,4 +132,4 @@ Install metadata for jbang lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T07:05:16Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T06:57:39Z._
