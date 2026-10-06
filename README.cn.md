@@ -30,8 +30,8 @@ x install jbang
 
 评分最低的几项:
 
-- **Code-Review** (4/10) — Found 12/28 approved changesets -- score normalized to 4
 - **Pinned-Dependencies** (-1/10) — internal error: internal error: invalid Dockerfile: LABEL must have two arguments
+- **Code-Review** (4/10) — Found 12/28 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -48,22 +48,22 @@ x install jbang
 
 ## 流行度
 
-- **Star**: 1,870 · **Fork**: 212 · **开放 issue**: 1,027 · **贡献者**: 105
+- **Star**: 1,870 · **Fork**: 212 · **开放 issue**: 1,028 · **贡献者**: 105
 
 ## 累计统计
 
-- **发布数**: 248 · **已合并 PR**: 1023 · **开放 PR**: 60 · **已关闭 issue**: 674 · **开放 issue**: 353 · **提交数**: 2366
+- **发布数**: 248 · **已合并 PR**: 1023 · **开放 PR**: 60 · **已关闭 issue**: 674 · **开放 issue**: 354 · **提交数**: 2366
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 2 | 4 | 7 | 0 | 2 | 6 |
-| last60d | 2026-08-06 | 2 | 10 | 17 | 0 | 6 | 13 |
-| 90d | 2026-07-07 | 4 | 24 | 32 | 4 | 14 | 27 |
-| last180d | 2026-04-08 | 7 | 90 | 46 | 25 | 32 | 123 |
-| 360d | 2025-10-10 | 13 | 153 | 51 | 48 | 66 | 239 |
-| last720d | 2024-10-15 | 37 | 323 | 55 | 136 | 132 | 608 |
+| 30d | 2026-09-06 | 2 | 4 | 7 | 0 | 3 | 6 |
+| last60d | 2026-08-07 | 2 | 9 | 17 | 0 | 7 | 13 |
+| 90d | 2026-07-08 | 4 | 24 | 32 | 3 | 15 | 27 |
+| last180d | 2026-04-09 | 7 | 90 | 46 | 25 | 33 | 123 |
+| 360d | 2025-10-11 | 13 | 151 | 51 | 48 | 66 | 239 |
+| last720d | 2024-10-16 | 37 | 323 | 55 | 136 | 133 | 608 |
 
 ## Release 资产
 
@@ -132,4 +132,4 @@ jbang 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261005.yml` · 2026-10-05T06:57:40Z._
+_数据快照: `data/card/261006.yml` · 2026-10-06T07:51:17Z._

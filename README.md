@@ -30,8 +30,8 @@ Overall score: **6.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 12/28 approved changesets -- score normalized to 4
 - **Pinned-Dependencies** (-1/10) — internal error: internal error: invalid Dockerfile: LABEL must have two arguments
+- **Code-Review** (4/10) — Found 12/28 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,870 · **Forks**: 212 · **Open issues**: 1,027 · **Contributors**: 105
+- **Stars**: 1,870 · **Forks**: 212 · **Open issues**: 1,028 · **Contributors**: 105
 
 ## Totals (cumulative)
 
-- **Releases**: 248 · **Merged PRs**: 1023 · **Open PRs**: 60 · **Closed issues**: 674 · **Open issues**: 353 · **Commits**: 2366
+- **Releases**: 248 · **Merged PRs**: 1023 · **Open PRs**: 60 · **Closed issues**: 674 · **Open issues**: 354 · **Commits**: 2366
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 2 | 4 | 7 | 0 | 2 | 6 |
-| last60d | 2026-08-06 | 2 | 10 | 17 | 0 | 6 | 13 |
-| 90d | 2026-07-07 | 4 | 24 | 32 | 4 | 14 | 27 |
-| last180d | 2026-04-08 | 7 | 90 | 46 | 25 | 32 | 123 |
-| 360d | 2025-10-10 | 13 | 153 | 51 | 48 | 66 | 239 |
-| last720d | 2024-10-15 | 37 | 323 | 55 | 136 | 132 | 608 |
+| 30d | 2026-09-06 | 2 | 4 | 7 | 0 | 3 | 6 |
+| last60d | 2026-08-07 | 2 | 9 | 17 | 0 | 7 | 13 |
+| 90d | 2026-07-08 | 4 | 24 | 32 | 3 | 15 | 27 |
+| last180d | 2026-04-09 | 7 | 90 | 46 | 25 | 33 | 123 |
+| 360d | 2025-10-11 | 13 | 151 | 51 | 48 | 66 | 239 |
+| last720d | 2024-10-16 | 37 | 323 | 55 | 136 | 133 | 608 |
 
 ## Release assets
 
@@ -132,4 +132,4 @@ Install metadata for jbang lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:57:39Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:51:16Z._
