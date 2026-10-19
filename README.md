@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `early-access` (2026-09-22)
-- **Last commit**: 2026-10-07
+- **Last commit**: 2026-10-18
 - **Assets in release**: 53
 
 ## Popularity
 
-- **Stars**: 1,875 · **Forks**: 213 · **Open issues**: 1,030 · **Contributors**: 105
+- **Stars**: 1,875 · **Forks**: 213 · **Open issues**: 1,031 · **Contributors**: 105
 
 ## Totals (cumulative)
 
-- **Releases**: 248 · **Merged PRs**: 1024 · **Open PRs**: 67 · **Closed issues**: 674 · **Open issues**: 356 · **Commits**: 2367
+- **Releases**: 248 · **Merged PRs**: 1025 · **Open PRs**: 68 · **Closed issues**: 674 · **Open issues**: 357 · **Commits**: 2368
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 2 | 4 | 14 | 0 | 4 | 4 |
-| last60d | 2026-08-19 | 2 | 8 | 24 | 0 | 8 | 8 |
-| 90d | 2026-07-20 | 2 | 12 | 31 | 1 | 11 | 18 |
-| last180d | 2026-04-21 | 6 | 89 | 54 | 25 | 32 | 124 |
-| 360d | 2025-10-23 | 13 | 148 | 57 | 46 | 68 | 223 |
-| last720d | 2024-10-28 | 37 | 324 | 62 | 135 | 134 | 609 |
+| 30d | 2026-09-19 | 2 | 5 | 15 | 0 | 5 | 5 |
+| last60d | 2026-08-20 | 2 | 9 | 25 | 0 | 9 | 9 |
+| 90d | 2026-07-21 | 2 | 13 | 31 | 1 | 12 | 19 |
+| last180d | 2026-04-22 | 6 | 90 | 55 | 25 | 33 | 125 |
+| 360d | 2025-10-24 | 13 | 148 | 58 | 46 | 69 | 224 |
+| last720d | 2024-10-29 | 37 | 324 | 63 | 135 | 135 | 610 |
 
 ## Release assets
 
@@ -132,4 +132,4 @@ Install metadata for jbang lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T05:42:18Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T05:52:30Z._
