@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 2 | 5 | 14 | 0 | 5 | 5 |
-| last60d | 2026-08-21 | 2 | 9 | 25 | 0 | 9 | 9 |
-| 90d | 2026-07-22 | 2 | 13 | 30 | 1 | 11 | 19 |
-| last180d | 2026-04-23 | 6 | 90 | 53 | 25 | 33 | 125 |
-| 360d | 2025-10-25 | 13 | 147 | 58 | 46 | 69 | 224 |
-| last720d | 2024-10-30 | 37 | 323 | 63 | 133 | 135 | 610 |
+| 30d | 2026-09-21 | 2 | 5 | 14 | 0 | 5 | 5 |
+| last60d | 2026-08-22 | 2 | 9 | 24 | 0 | 8 | 9 |
+| 90d | 2026-07-23 | 2 | 13 | 29 | 1 | 11 | 19 |
+| last180d | 2026-04-24 | 6 | 90 | 53 | 25 | 33 | 125 |
+| 360d | 2025-10-26 | 13 | 147 | 58 | 46 | 69 | 224 |
+| last720d | 2024-10-31 | 37 | 323 | 63 | 132 | 135 | 609 |
 
 ## Release assets
 
@@ -132,4 +132,4 @@ Install metadata for jbang lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T06:12:21Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T06:04:39Z._
