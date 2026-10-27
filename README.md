@@ -30,7 +30,7 @@ Overall score: **6.1 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 11/28 approved changesets -- score normalized to 3
+- **Code-Review** (3/10) — Found 10/28 approved changesets -- score normalized to 3
 - **Pinned-Dependencies** (-1/10) — internal error: internal error: invalid Dockerfile: LABEL must have two arguments
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,880 · **Forks**: 214 · **Open issues**: 1,031 · **Contributors**: 105
+- **Stars**: 1,881 · **Forks**: 214 · **Open issues**: 1,031 · **Contributors**: 105
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 1 | 5 | 9 | 1 | 3 | 8 |
-| last60d | 2026-08-27 | 2 | 8 | 18 | 1 | 5 | 11 |
-| 90d | 2026-07-28 | 2 | 15 | 25 | 2 | 9 | 19 |
-| last180d | 2026-04-29 | 6 | 92 | 48 | 26 | 31 | 128 |
-| 360d | 2025-10-31 | 13 | 145 | 53 | 47 | 66 | 222 |
-| last720d | 2024-11-05 | 37 | 326 | 58 | 133 | 134 | 611 |
+| 30d | 2026-09-27 | 1 | 5 | 9 | 1 | 3 | 8 |
+| last60d | 2026-08-28 | 2 | 8 | 18 | 1 | 5 | 11 |
+| 90d | 2026-07-29 | 2 | 14 | 25 | 2 | 9 | 19 |
+| last180d | 2026-04-30 | 6 | 92 | 48 | 26 | 31 | 128 |
+| 360d | 2025-11-01 | 13 | 145 | 53 | 47 | 66 | 222 |
+| last720d | 2024-11-06 | 37 | 326 | 58 | 133 | 134 | 611 |
 
 ## Release assets
 
@@ -141,4 +141,4 @@ Install metadata for jbang lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T06:05:28Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T06:26:05Z._
