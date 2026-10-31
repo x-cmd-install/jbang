@@ -42,8 +42,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `early-access` (2026-09-22)
-- **Last commit**: 2026-10-26
+- **Latest**: `v0.143.0` (2026-10-30)
+- **Last commit**: 2026-10-30
 - **Assets in release**: 53
 
 ## Popularity
@@ -52,84 +52,84 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 248 · **Merged PRs**: 1028 · **Open PRs**: 62 · **Closed issues**: 675 · **Open issues**: 356 · **Commits**: 2371
+- **Releases**: 249 · **Merged PRs**: 1032 · **Open PRs**: 60 · **Closed issues**: 675 · **Open issues**: 356 · **Commits**: 2376
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 1 | 5 | 8 | 1 | 3 | 8 |
-| last60d | 2026-08-31 | 2 | 8 | 15 | 1 | 5 | 11 |
-| 90d | 2026-08-01 | 2 | 14 | 24 | 2 | 9 | 19 |
-| last180d | 2026-05-03 | 6 | 91 | 48 | 25 | 31 | 128 |
-| 360d | 2025-11-04 | 13 | 144 | 53 | 47 | 66 | 222 |
-| last720d | 2024-11-09 | 37 | 326 | 58 | 133 | 134 | 611 |
+| 30d | 2026-10-01 | 2 | 8 | 7 | 1 | 3 | 12 |
+| last60d | 2026-09-01 | 3 | 11 | 14 | 1 | 5 | 15 |
+| 90d | 2026-08-02 | 3 | 17 | 23 | 2 | 9 | 23 |
+| last180d | 2026-05-04 | 7 | 94 | 46 | 25 | 31 | 132 |
+| 360d | 2025-11-05 | 14 | 148 | 51 | 47 | 65 | 226 |
+| last720d | 2024-11-10 | 38 | 330 | 56 | 133 | 134 | 616 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums_sha256.txt](https://github.com/jbangdev/jbang/releases/download/v0.142.0/checksums_sha256.txt) | 1.6 KiB | `other` |
-| [checksums_sha256.txt.asc](https://github.com/jbangdev/jbang/releases/download/v0.142.0/checksums_sha256.txt.asc) | 216 B | `other` |
-| [jbang-0.142.0-linux-x64.tar](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-0.142.0-linux-x64.tar) | 93.4 MiB | `other` |
-| [jbang-0.142.0-linux-x64.tar.asc](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-0.142.0-linux-x64.tar.asc) | 216 B | `other` |
-| [jbang-0.142.0-linux-x64.tar.sha256](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-0.142.0-linux-x64.tar.sha256) | 64 B | `other` |
-| [jbang-0.142.0-linux-x64.zip](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-0.142.0-linux-x64.zip) | 40.1 MiB | `other` |
-| [jbang-0.142.0-linux-x64.zip.asc](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-0.142.0-linux-x64.zip.asc) | 216 B | `other` |
-| [jbang-0.142.0-linux-x64.zip.sha256](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-0.142.0-linux-x64.zip.sha256) | 64 B | `other` |
-| [jbang-0.142.0-mac-aarch64.tar](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-0.142.0-mac-aarch64.tar) | 77.8 MiB | `other` |
-| [jbang-0.142.0-mac-aarch64.tar.asc](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-0.142.0-mac-aarch64.tar.asc) | 216 B | `other` |
-| [jbang-0.142.0-mac-aarch64.tar.sha256](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-0.142.0-mac-aarch64.tar.sha256) | 64 B | `other` |
-| [jbang-0.142.0-mac-aarch64.zip](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-0.142.0-mac-aarch64.zip) | 35.7 MiB | `other` |
-| [jbang-0.142.0-mac-aarch64.zip.asc](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-0.142.0-mac-aarch64.zip.asc) | 216 B | `other` |
-| [jbang-0.142.0-mac-aarch64.zip.sha256](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-0.142.0-mac-aarch64.zip.sha256) | 64 B | `other` |
-| [jbang-0.142.0-windows-x64.tar](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-0.142.0-windows-x64.tar) | 80.0 MiB | `native/win/x64` |
-| [jbang-0.142.0-windows-x64.tar.asc](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-0.142.0-windows-x64.tar.asc) | 216 B | `native/win/x64` |
-| [jbang-0.142.0-windows-x64.tar.sha256](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-0.142.0-windows-x64.tar.sha256) | 64 B | `native/win/x64` |
-| [jbang-0.142.0-windows-x64.zip](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-0.142.0-windows-x64.zip) | 36.0 MiB | `native/win/x64` |
-| [jbang-0.142.0-windows-x64.zip.asc](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-0.142.0-windows-x64.zip.asc) | 216 B | `native/win/x64` |
-| [jbang-0.142.0-windows-x64.zip.sha256](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-0.142.0-windows-x64.zip.sha256) | 64 B | `native/win/x64` |
-| [jbang-0.142.0.tar](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-0.142.0.tar) | 14.4 MiB | `other` |
-| [jbang-0.142.0.tar.asc](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-0.142.0.tar.asc) | 216 B | `other` |
-| [jbang-0.142.0.tar.sha256](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-0.142.0.tar.sha256) | 64 B | `other` |
-| [jbang-0.142.0.zip](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-0.142.0.zip) | 13.0 MiB | `other` |
-| [jbang-0.142.0.zip.asc](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-0.142.0.zip.asc) | 216 B | `other` |
-| [jbang-0.142.0.zip.sha256](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-0.142.0.zip.sha256) | 64 B | `other` |
-| [jbang-linux-x64.tar](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-linux-x64.tar) | 93.4 MiB | `other` |
-| [jbang-linux-x64.tar.asc](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-linux-x64.tar.asc) | 216 B | `other` |
-| [jbang-linux-x64.tar.sha256](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-linux-x64.tar.sha256) | 64 B | `other` |
-| [jbang-linux-x64.zip](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-linux-x64.zip) | 40.1 MiB | `other` |
-| [jbang-linux-x64.zip.asc](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-linux-x64.zip.asc) | 216 B | `other` |
-| [jbang-linux-x64.zip.sha256](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-linux-x64.zip.sha256) | 64 B | `other` |
-| [jbang-mac-aarch64.tar](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-mac-aarch64.tar) | 77.8 MiB | `other` |
-| [jbang-mac-aarch64.tar.asc](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-mac-aarch64.tar.asc) | 216 B | `other` |
-| [jbang-mac-aarch64.tar.sha256](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-mac-aarch64.tar.sha256) | 64 B | `other` |
-| [jbang-mac-aarch64.zip](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-mac-aarch64.zip) | 35.7 MiB | `other` |
-| [jbang-mac-aarch64.zip.asc](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-mac-aarch64.zip.asc) | 216 B | `other` |
-| [jbang-mac-aarch64.zip.sha256](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-mac-aarch64.zip.sha256) | 64 B | `other` |
-| [jbang-windows-x64.tar](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-windows-x64.tar) | 80.0 MiB | `native/win/x64` |
-| [jbang-windows-x64.tar.asc](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-windows-x64.tar.asc) | 216 B | `native/win/x64` |
-| [jbang-windows-x64.tar.sha256](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-windows-x64.tar.sha256) | 64 B | `native/win/x64` |
-| [jbang-windows-x64.zip](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-windows-x64.zip) | 36.0 MiB | `native/win/x64` |
-| [jbang-windows-x64.zip.asc](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-windows-x64.zip.asc) | 216 B | `native/win/x64` |
-| [jbang-windows-x64.zip.sha256](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang-windows-x64.zip.sha256) | 64 B | `native/win/x64` |
-| [jbang.tar](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang.tar) | 14.4 MiB | `other` |
-| [jbang.tar.asc](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang.tar.asc) | 216 B | `other` |
-| [jbang.tar.sha256](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang.tar.sha256) | 64 B | `other` |
-| [jbang.zip](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang.zip) | 13.0 MiB | `other` |
-| [jbang.zip.asc](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang.zip.asc) | 216 B | `other` |
-| [jbang.zip.sha256](https://github.com/jbangdev/jbang/releases/download/v0.142.0/jbang.zip.sha256) | 64 B | `other` |
-| [version.txt](https://github.com/jbangdev/jbang/releases/download/v0.142.0/version.txt) | 7 B | `other` |
-| [version.txt.asc](https://github.com/jbangdev/jbang/releases/download/v0.142.0/version.txt.asc) | 216 B | `other` |
-| [version.txt.sha256](https://github.com/jbangdev/jbang/releases/download/v0.142.0/version.txt.sha256) | 64 B | `other` |
+| [checksums_sha256.txt](https://github.com/jbangdev/jbang/releases/download/v0.143.0/checksums_sha256.txt) | 1.6 KiB | `other` |
+| [checksums_sha256.txt.asc](https://github.com/jbangdev/jbang/releases/download/v0.143.0/checksums_sha256.txt.asc) | 216 B | `other` |
+| [jbang-0.143.0-linux-x64.tar](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-0.143.0-linux-x64.tar) | 95.8 MiB | `other` |
+| [jbang-0.143.0-linux-x64.tar.asc](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-0.143.0-linux-x64.tar.asc) | 216 B | `other` |
+| [jbang-0.143.0-linux-x64.tar.sha256](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-0.143.0-linux-x64.tar.sha256) | 64 B | `other` |
+| [jbang-0.143.0-linux-x64.zip](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-0.143.0-linux-x64.zip) | 41.1 MiB | `other` |
+| [jbang-0.143.0-linux-x64.zip.asc](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-0.143.0-linux-x64.zip.asc) | 216 B | `other` |
+| [jbang-0.143.0-linux-x64.zip.sha256](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-0.143.0-linux-x64.zip.sha256) | 64 B | `other` |
+| [jbang-0.143.0-mac-aarch64.tar](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-0.143.0-mac-aarch64.tar) | 79.5 MiB | `other` |
+| [jbang-0.143.0-mac-aarch64.tar.asc](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-0.143.0-mac-aarch64.tar.asc) | 216 B | `other` |
+| [jbang-0.143.0-mac-aarch64.tar.sha256](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-0.143.0-mac-aarch64.tar.sha256) | 64 B | `other` |
+| [jbang-0.143.0-mac-aarch64.zip](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-0.143.0-mac-aarch64.zip) | 36.6 MiB | `other` |
+| [jbang-0.143.0-mac-aarch64.zip.asc](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-0.143.0-mac-aarch64.zip.asc) | 216 B | `other` |
+| [jbang-0.143.0-mac-aarch64.zip.sha256](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-0.143.0-mac-aarch64.zip.sha256) | 64 B | `other` |
+| [jbang-0.143.0-windows-x64.tar](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-0.143.0-windows-x64.tar) | 82.2 MiB | `native/win/x64` |
+| [jbang-0.143.0-windows-x64.tar.asc](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-0.143.0-windows-x64.tar.asc) | 216 B | `native/win/x64` |
+| [jbang-0.143.0-windows-x64.tar.sha256](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-0.143.0-windows-x64.tar.sha256) | 64 B | `native/win/x64` |
+| [jbang-0.143.0-windows-x64.zip](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-0.143.0-windows-x64.zip) | 36.9 MiB | `native/win/x64` |
+| [jbang-0.143.0-windows-x64.zip.asc](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-0.143.0-windows-x64.zip.asc) | 216 B | `native/win/x64` |
+| [jbang-0.143.0-windows-x64.zip.sha256](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-0.143.0-windows-x64.zip.sha256) | 64 B | `native/win/x64` |
+| [jbang-0.143.0.tar](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-0.143.0.tar) | 14.8 MiB | `other` |
+| [jbang-0.143.0.tar.asc](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-0.143.0.tar.asc) | 216 B | `other` |
+| [jbang-0.143.0.tar.sha256](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-0.143.0.tar.sha256) | 64 B | `other` |
+| [jbang-0.143.0.zip](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-0.143.0.zip) | 13.3 MiB | `other` |
+| [jbang-0.143.0.zip.asc](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-0.143.0.zip.asc) | 216 B | `other` |
+| [jbang-0.143.0.zip.sha256](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-0.143.0.zip.sha256) | 64 B | `other` |
+| [jbang-linux-x64.tar](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-linux-x64.tar) | 95.8 MiB | `other` |
+| [jbang-linux-x64.tar.asc](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-linux-x64.tar.asc) | 216 B | `other` |
+| [jbang-linux-x64.tar.sha256](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-linux-x64.tar.sha256) | 64 B | `other` |
+| [jbang-linux-x64.zip](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-linux-x64.zip) | 41.1 MiB | `other` |
+| [jbang-linux-x64.zip.asc](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-linux-x64.zip.asc) | 216 B | `other` |
+| [jbang-linux-x64.zip.sha256](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-linux-x64.zip.sha256) | 64 B | `other` |
+| [jbang-mac-aarch64.tar](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-mac-aarch64.tar) | 79.5 MiB | `other` |
+| [jbang-mac-aarch64.tar.asc](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-mac-aarch64.tar.asc) | 216 B | `other` |
+| [jbang-mac-aarch64.tar.sha256](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-mac-aarch64.tar.sha256) | 64 B | `other` |
+| [jbang-mac-aarch64.zip](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-mac-aarch64.zip) | 36.6 MiB | `other` |
+| [jbang-mac-aarch64.zip.asc](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-mac-aarch64.zip.asc) | 216 B | `other` |
+| [jbang-mac-aarch64.zip.sha256](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-mac-aarch64.zip.sha256) | 64 B | `other` |
+| [jbang-windows-x64.tar](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-windows-x64.tar) | 82.2 MiB | `native/win/x64` |
+| [jbang-windows-x64.tar.asc](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-windows-x64.tar.asc) | 216 B | `native/win/x64` |
+| [jbang-windows-x64.tar.sha256](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-windows-x64.tar.sha256) | 64 B | `native/win/x64` |
+| [jbang-windows-x64.zip](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-windows-x64.zip) | 36.9 MiB | `native/win/x64` |
+| [jbang-windows-x64.zip.asc](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-windows-x64.zip.asc) | 216 B | `native/win/x64` |
+| [jbang-windows-x64.zip.sha256](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang-windows-x64.zip.sha256) | 64 B | `native/win/x64` |
+| [jbang.tar](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang.tar) | 14.8 MiB | `other` |
+| [jbang.tar.asc](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang.tar.asc) | 216 B | `other` |
+| [jbang.tar.sha256](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang.tar.sha256) | 64 B | `other` |
+| [jbang.zip](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang.zip) | 13.3 MiB | `other` |
+| [jbang.zip.asc](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang.zip.asc) | 216 B | `other` |
+| [jbang.zip.sha256](https://github.com/jbangdev/jbang/releases/download/v0.143.0/jbang.zip.sha256) | 64 B | `other` |
+| [version.txt](https://github.com/jbangdev/jbang/releases/download/v0.143.0/version.txt) | 7 B | `other` |
+| [version.txt.asc](https://github.com/jbangdev/jbang/releases/download/v0.143.0/version.txt.asc) | 216 B | `other` |
+| [version.txt.sha256](https://github.com/jbangdev/jbang/releases/download/v0.143.0/version.txt.sha256) | 64 B | `other` |
 
 ## Distribution status
 
-Reported by **10** distros on [repology.org](https://repology.org/project/jbang). **3** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+Reported by **10** distros on [repology.org](https://repology.org/project/jbang). **2** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.142.0` | ✅ latest |
+| Homebrew | `0.143.0` | ✅ latest |
 | Nix unstable | `0.141.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -141,4 +141,4 @@ Install metadata for jbang lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T07:17:17Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T07:03:19Z._
