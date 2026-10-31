@@ -15,12 +15,12 @@
   visiblename: JBang
   version: 0.142.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Unleash the power of Java. Use `jbang` to run single .java or .jar file with automatic dependency fetching and immediate compilation and execution.
 - repo: homebrew
   srcname: jbang
   visiblename: jbang
-  version: 0.142.0
+  version: 0.143.0
   origversion: null
   status: newest
   summary: Tool to create, edit and run self-contained source-only Java programs
@@ -94,7 +94,7 @@
   subrepo: main
   binname: jbang
   visiblename: jbang
-  version: 0.142.0
+  version: 0.143.0
   origversion: null
   status: newest
   licenses:
