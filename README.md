@@ -24,16 +24,6 @@ Total: **53,527** lines of code across **532** files in the top 5 languages.
 | Xml | 685 | 17 | 17 | 9 |
 | Sh | 644 | 347 | 162 | 12 |
 
-## OpenSSF Scorecard
-
-Overall score: **6.1 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (3/10) — Found 10/28 approved changesets -- score normalized to 3
-- **Pinned-Dependencies** (-1/10) — internal error: internal error: invalid Dockerfile: LABEL must have two arguments
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-
 ## Source
 
 - **Upstream**: <https://github.com/jbangdev/jbang>
@@ -48,22 +38,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,882 · **Forks**: 214 · **Open issues**: 1,031 · **Contributors**: 105
+- **Stars**: 1,881 · **Forks**: 214 · **Open issues**: 1,031 · **Contributors**: 105
 
 ## Totals (cumulative)
 
-- **Releases**: 249 · **Merged PRs**: 1032 · **Open PRs**: 60 · **Closed issues**: 675 · **Open issues**: 356 · **Commits**: 2376
+- **Releases**: 249 · **Merged PRs**: 1032 · **Open PRs**: 61 · **Closed issues**: 675 · **Open issues**: 356 · **Commits**: 2376
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 2 | 8 | 7 | 1 | 3 | 12 |
-| last60d | 2026-09-01 | 3 | 11 | 14 | 1 | 5 | 15 |
-| 90d | 2026-08-02 | 3 | 17 | 23 | 2 | 9 | 23 |
-| last180d | 2026-05-04 | 7 | 94 | 46 | 25 | 31 | 132 |
-| 360d | 2025-11-05 | 14 | 148 | 51 | 47 | 65 | 226 |
-| last720d | 2024-11-10 | 38 | 330 | 56 | 133 | 134 | 616 |
+| 30d | 2026-10-02 | 2 | 8 | 7 | 1 | 3 | 8 |
+| last60d | 2026-09-02 | 3 | 11 | 14 | 1 | 5 | 15 |
+| 90d | 2026-08-03 | 3 | 17 | 24 | 2 | 9 | 22 |
+| last180d | 2026-05-05 | 7 | 94 | 47 | 25 | 30 | 128 |
+| 360d | 2025-11-06 | 14 | 147 | 52 | 46 | 64 | 222 |
+| last720d | 2024-11-11 | 38 | 330 | 57 | 133 | 134 | 616 |
 
 ## Release assets
 
@@ -141,4 +131,4 @@ Install metadata for jbang lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T07:03:19Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T07:31:08Z._
