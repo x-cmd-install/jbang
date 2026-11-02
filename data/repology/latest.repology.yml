@@ -13,9 +13,9 @@
 - repo: chocolatey
   binname: jbang
   visiblename: JBang
-  version: 0.142.0
+  version: 0.143.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Unleash the power of Java. Use `jbang` to run single .java or .jar file with automatic dependency fetching and immediate compilation and execution.
 - repo: homebrew
   srcname: jbang
