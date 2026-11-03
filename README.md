@@ -14,11 +14,11 @@ x install jbang
 
 ## Code insight
 
-Total: **53,529** lines of code across **532** files in the top 5 languages.
+Total: **53,567** lines of code across **533** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 38,311 | 3,747 | 7,148 | 327 |
+| Java | 38,349 | 3,781 | 7,156 | 328 |
 | AsciiDoc | 8,305 | 294 | 3,687 | 104 |
 | Json | 3,611 | 0 | 0 | 80 |
 | Xml | 685 | 17 | 17 | 9 |
@@ -38,22 +38,22 @@ Total: **53,529** lines of code across **532** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,881 · **Forks**: 214 · **Open issues**: 1,031 · **Contributors**: 105
+- **Stars**: 1,882 · **Forks**: 215 · **Open issues**: 1,031 · **Contributors**: 105
 
 ## Totals (cumulative)
 
-- **Releases**: 249 · **Merged PRs**: 1033 · **Open PRs**: 61 · **Closed issues**: 675 · **Open issues**: 356 · **Commits**: 2378
+- **Releases**: 249 · **Merged PRs**: 1037 · **Open PRs**: 62 · **Closed issues**: 675 · **Open issues**: 356 · **Commits**: 2382
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 2 | 8 | 8 | 1 | 3 | 10 |
-| last60d | 2026-09-03 | 3 | 12 | 14 | 1 | 5 | 17 |
-| 90d | 2026-08-04 | 3 | 18 | 24 | 2 | 9 | 24 |
-| last180d | 2026-05-06 | 7 | 95 | 47 | 24 | 30 | 130 |
-| 360d | 2025-11-07 | 14 | 147 | 52 | 46 | 64 | 224 |
-| last720d | 2024-11-12 | 38 | 330 | 57 | 132 | 134 | 618 |
+| 30d | 2026-10-04 | 2 | 11 | 9 | 1 | 3 | 14 |
+| last60d | 2026-09-04 | 3 | 16 | 15 | 1 | 5 | 21 |
+| 90d | 2026-08-05 | 3 | 22 | 24 | 2 | 9 | 28 |
+| last180d | 2026-05-07 | 7 | 99 | 48 | 24 | 30 | 134 |
+| 360d | 2025-11-08 | 14 | 151 | 53 | 46 | 64 | 228 |
+| last720d | 2024-11-13 | 38 | 333 | 58 | 131 | 134 | 622 |
 
 ## Release assets
 
@@ -131,4 +131,4 @@ Install metadata for jbang lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T07:44:05Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T08:21:20Z._
