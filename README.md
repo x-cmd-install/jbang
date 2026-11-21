@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 249 · **Merged PRs**: 1046 · **Open PRs**: 66 · **Closed issues**: 676 · **Open issues**: 357 · **Commits**: 2391
+- **Releases**: 249 · **Merged PRs**: 1046 · **Open PRs**: 67 · **Closed issues**: 676 · **Open issues**: 357 · **Commits**: 2391
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 2 | 15 | 9 | 1 | 1 | 22 |
-| last60d | 2026-09-21 | 3 | 25 | 17 | 2 | 5 | 28 |
-| 90d | 2026-08-22 | 3 | 29 | 26 | 2 | 8 | 31 |
-| last180d | 2026-05-24 | 7 | 96 | 50 | 25 | 30 | 134 |
-| 360d | 2025-11-25 | 13 | 148 | 56 | 42 | 60 | 191 |
-| last720d | 2024-11-30 | 36 | 334 | 62 | 131 | 133 | 603 |
+| 30d | 2026-10-22 | 2 | 15 | 10 | 1 | 1 | 0 |
+| last60d | 2026-09-22 | 3 | 24 | 17 | 2 | 4 | 0 |
+| 90d | 2026-08-23 | 3 | 27 | 26 | 2 | 8 | 0 |
+| last180d | 2026-05-25 | 7 | 96 | 51 | 25 | 30 | 0 |
+| 360d | 2025-11-26 | 13 | 146 | 57 | 41 | 60 | 0 |
+| last720d | 2024-12-01 | 36 | 334 | 63 | 131 | 133 | 603 |
 
 ## Release assets
 
@@ -141,4 +141,4 @@ Install metadata for jbang lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T09:55:20Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:25:05Z._
