@@ -14,15 +14,15 @@ x install jbang
 
 ## Code insight
 
-Total: **56,557** lines of code across **543** files in the top 5 languages.
+Total: **56,385** lines of code across **542** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 40,409 | 4,030 | 7,459 | 333 |
+| Java | 40,426 | 4,032 | 7,461 | 333 |
 | AsciiDoc | 9,231 | 294 | 4,109 | 109 |
 | Json | 3,611 | 0 | 0 | 80 |
-| Xml | 685 | 17 | 17 | 9 |
 | Sh | 644 | 347 | 162 | 12 |
+| Xml | 609 | 17 | 12 | 8 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `early-access` (2026-10-30)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-24
 - **Assets in release**: 53
 
 ## Popularity
 
-- **Stars**: 1,886 · **Forks**: 220 · **Open issues**: 1,034 · **Contributors**: 109
+- **Stars**: 1,886 · **Forks**: 220 · **Open issues**: 1,034 · **Contributors**: 110
 
 ## Totals (cumulative)
 
-- **Releases**: 249 · **Merged PRs**: 1059 · **Open PRs**: 60 · **Closed issues**: 680 · **Open issues**: 354 · **Commits**: 2404
+- **Releases**: 249 · **Merged PRs**: 1064 · **Open PRs**: 61 · **Closed issues**: 682 · **Open issues**: 352 · **Commits**: 2409
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 2 | 26 | 6 | 3 | 0 | 0 |
-| last60d | 2026-09-24 | 2 | 33 | 13 | 5 | 2 | 0 |
-| 90d | 2026-08-25 | 3 | 37 | 20 | 5 | 5 | 0 |
-| last180d | 2026-05-27 | 7 | 108 | 43 | 28 | 28 | 0 |
-| 360d | 2025-11-28 | 12 | 158 | 50 | 44 | 58 | 0 |
-| last720d | 2024-12-03 | 36 | 345 | 56 | 133 | 131 | 616 |
+| 30d | 2026-10-25 | 2 | 30 | 8 | 3 | 0 | 37 |
+| last60d | 2026-09-25 | 2 | 38 | 14 | 6 | 1 | 45 |
+| 90d | 2026-08-26 | 3 | 42 | 22 | 6 | 3 | 48 |
+| last180d | 2026-05-28 | 7 | 112 | 44 | 29 | 27 | 139 |
+| 360d | 2025-11-29 | 12 | 163 | 51 | 45 | 57 | 204 |
+| last720d | 2024-12-04 | 36 | 349 | 57 | 135 | 129 | 621 |
 
 ## Release assets
 
@@ -141,4 +141,4 @@ Install metadata for jbang lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T11:10:45Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:03:11Z._
