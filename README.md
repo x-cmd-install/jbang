@@ -14,13 +14,13 @@ x install jbang
 
 ## Code insight
 
-Total: **56,385** lines of code across **542** files in the top 5 languages.
+Total: **56,597** lines of code across **542** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 40,426 | 4,032 | 7,461 | 333 |
+| Java | 40,613 | 4,056 | 7,489 | 333 |
 | AsciiDoc | 9,231 | 294 | 4,109 | 109 |
-| Json | 3,611 | 0 | 0 | 80 |
+| Json | 3,615 | 0 | 0 | 80 |
 | Sh | 644 | 347 | 162 | 12 |
 | Xml | 609 | 17 | 12 | 8 |
 
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 249 · **Merged PRs**: 1064 · **Open PRs**: 61 · **Closed issues**: 682 · **Open issues**: 352 · **Commits**: 2409
+- **Releases**: 249 · **Merged PRs**: 1068 · **Open PRs**: 62 · **Closed issues**: 684 · **Open issues**: 350 · **Commits**: 2413
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 2 | 30 | 8 | 3 | 0 | 37 |
-| last60d | 2026-09-25 | 2 | 38 | 14 | 6 | 1 | 45 |
-| 90d | 2026-08-26 | 3 | 42 | 22 | 6 | 3 | 48 |
-| last180d | 2026-05-28 | 7 | 112 | 44 | 29 | 27 | 139 |
-| 360d | 2025-11-29 | 12 | 163 | 51 | 45 | 57 | 204 |
-| last720d | 2024-12-04 | 36 | 349 | 57 | 135 | 129 | 621 |
+| 30d | 2026-10-26 | 2 | 33 | 10 | 3 | 0 | 41 |
+| last60d | 2026-09-26 | 2 | 41 | 16 | 6 | 1 | 49 |
+| 90d | 2026-08-27 | 3 | 45 | 24 | 6 | 3 | 52 |
+| last180d | 2026-05-29 | 7 | 116 | 45 | 31 | 21 | 143 |
+| 360d | 2025-11-30 | 12 | 166 | 52 | 47 | 54 | 208 |
+| last720d | 2024-12-05 | 36 | 351 | 58 | 137 | 127 | 624 |
 
 ## Release assets
 
@@ -123,15 +123,6 @@ Lowest-scoring checks:
 | [version.txt.asc](https://github.com/jbangdev/jbang/releases/download/v0.143.0/version.txt.asc) | 216 B | `other` |
 | [version.txt.sha256](https://github.com/jbangdev/jbang/releases/download/v0.143.0/version.txt.sha256) | 64 B | `other` |
 
-## Distribution status
-
-Reported by **10** distros on [repology.org](https://repology.org/project/jbang). **3** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.143.0` | ✅ latest |
-| Nix unstable | `0.141.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for jbang lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `jbang` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -141,4 +132,4 @@ Install metadata for jbang lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:03:11Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:33:33Z._
