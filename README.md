@@ -14,11 +14,11 @@ x install jbang
 
 ## Code insight
 
-Total: **56,597** lines of code across **542** files in the top 5 languages.
+Total: **56,636** lines of code across **542** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 40,613 | 4,056 | 7,489 | 333 |
+| Java | 40,652 | 4,065 | 7,495 | 333 |
 | AsciiDoc | 9,231 | 294 | 4,109 | 109 |
 | Json | 3,615 | 0 | 0 | 80 |
 | Sh | 644 | 347 | 162 | 12 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `early-access` (2026-10-30)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-25
 - **Assets in release**: 53
 
 ## Popularity
 
-- **Stars**: 1,886 · **Forks**: 220 · **Open issues**: 1,034 · **Contributors**: 110
+- **Stars**: 1,887 · **Forks**: 220 · **Open issues**: 1,034 · **Contributors**: 110
 
 ## Totals (cumulative)
 
-- **Releases**: 249 · **Merged PRs**: 1068 · **Open PRs**: 62 · **Closed issues**: 684 · **Open issues**: 350 · **Commits**: 2413
+- **Releases**: 249 · **Merged PRs**: 1072 · **Open PRs**: 62 · **Closed issues**: 684 · **Open issues**: 350 · **Commits**: 2417
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 2 | 33 | 10 | 3 | 0 | 41 |
-| last60d | 2026-09-26 | 2 | 41 | 16 | 6 | 1 | 49 |
-| 90d | 2026-08-27 | 3 | 45 | 24 | 6 | 3 | 52 |
-| last180d | 2026-05-29 | 7 | 116 | 45 | 31 | 21 | 143 |
-| 360d | 2025-11-30 | 12 | 166 | 52 | 47 | 54 | 208 |
-| last720d | 2024-12-05 | 36 | 351 | 58 | 137 | 127 | 624 |
+| 30d | 2026-10-27 | 2 | 37 | 10 | 3 | 0 | 45 |
+| last60d | 2026-09-27 | 2 | 45 | 16 | 6 | 1 | 53 |
+| 90d | 2026-08-28 | 3 | 49 | 24 | 6 | 3 | 56 |
+| last180d | 2026-05-30 | 7 | 113 | 45 | 31 | 21 | 147 |
+| 360d | 2025-12-01 | 11 | 170 | 52 | 47 | 54 | 212 |
+| last720d | 2024-12-06 | 36 | 354 | 58 | 136 | 127 | 625 |
 
 ## Release assets
 
@@ -132,4 +132,4 @@ Install metadata for jbang lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T10:33:33Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T10:07:31Z._
